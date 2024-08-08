@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Calistoga-Regular' ;
+  src: url('./assets/fonts/Calistoga-Regular.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'Margarine-Regular' ;
+  src: url('./assets/fonts/Margarine-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'RockSalt-Regular' ;
+  src: url('./assets/fonts/RockSalt-Regular.ttf') format("truetype");
+}
+@font-face {
+  font-family: 'Sora-VariableFont_wght' ;
+  src: url('./assets/fonts/Sora-VariableFont_wght.ttf') format("truetype");
+}
